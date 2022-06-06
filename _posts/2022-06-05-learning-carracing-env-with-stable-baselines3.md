@@ -28,6 +28,7 @@ PPO 알고리즘을 이용하여 학습한다.
 import gym
 import os
 from stable_baselines3 import PPO
+from stable_baselines3.common.callbacks import EvalCallback
 
 env = gym.make('CarRacing-v0')
 
