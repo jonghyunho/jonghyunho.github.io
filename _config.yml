@@ -1,4 +1,5 @@
 # Site Build Settings
+timezone: Asia/Seoul
 
 # Jekyll-paginate-v2 configuration
 #  pagination:
