@@ -1,8 +1,9 @@
 ---
 layout: post
+date: 2026-02-24 21:00:00 +0900
 title: "QuantaAlpha: LLM이 주식 알파 팩터를 스스로 찾는다"
 author: "Jonghyun Ho"
-categories: [AI, Finance, Quantitative]
+categories: [AI, Finance, Quant]
 tags: [LLM, Alpha Mining, Quant, AI Agent, 주식, 딥러닝]
 ---
 
